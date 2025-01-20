@@ -1,0 +1,46 @@
+.page-body {
+    background-color: #19202b;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    text-align: center;
+    padding: 15px;
+    background-color: #06334b;
+}
+
+.navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #f6e8cb;
+    border-radius: 5px;
+}
+
+.navigation a:hover {
+    background-color: #d1c3a5;
+    color: #06334b;
+}
+
+.banner {
+    text-align: center;
+    padding: 50px 20px;
+    background-image: url('banner-image.jpg'); /* Placeholder for your custom banner */
+    background-size: cover;
+    color: #ffffff;
+}
+
+.banner h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.banner h4 {
+    font-size: 1.2em;
+}
+
